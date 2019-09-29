@@ -1,5 +1,6 @@
 # FAC Week 8 project - Express.js & Handlebars
 
+![](https://i.imgur.com/KRpEtf0.png)
 ## TEAM
 
 Anthony, Collete, Martha, Sam, Sarah
