@@ -1,4 +1,4 @@
-# JOHAS-Fun-FAC-ts
+# FAC Week 8 project - Express.js & Handlebars
 
 ## TEAM
 
